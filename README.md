@@ -10,17 +10,11 @@ The PICO Spatial Audio Sample demonstrates the capabilities of the PICO Spatial 
 
 ## Compilation and Installation
 
-
 You can build the Unity project and install the sample's apk file on your PICO 4 series devices to experience it.
 
 Connect your PICO device to your PC using a USB cable, then open the command line window and use the following ADB command to install the apk file on the device:
 
 adb install "filepath\filename.apk"
-
-
-## User Guide
-
-Refer to [this article]() for more details on how to use the sample.
 
 ## LICENSE
 This project is licensed under the [MIT License](LICENSE).
