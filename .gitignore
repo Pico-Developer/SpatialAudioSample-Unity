@@ -1,5 +1,41 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+
+# Unity generated files
+Temp/
+Library/
+Logs/
+MemoryCaptures/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
@@ -70,3 +106,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+/Scripts/__pycache__/
+/Scripts/*.py[cod]
+/Scripts/*$py.class
+
+**/pxr_benchmark_*/
