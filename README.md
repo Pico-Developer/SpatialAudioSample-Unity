@@ -23,4 +23,4 @@ adb install "filepath\filename.apk"
 Refer to [this article]() for more details on how to use the sample.
 
 ## LICENSE
-This project is licensed under the [MIT License](./License.md).
+This project is licensed under the [MIT License](./LICENSE.md).
