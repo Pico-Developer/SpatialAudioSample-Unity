@@ -78,8 +78,8 @@ namespace PicoSpatialAudioSample.Runtime
                 controllerGuideRightRoot.SetActive(true);
                 //controllerGuideLeftPico4Root.SetActive(true);
                 //controllerGuideRightPico4Root.SetActive(true);
-                //controllerGuideLeftNeo3Root.SetActive(true);
-                //controllerGuideRightNeo3Root.SetActive(true);
+                controllerGuideLeftNeo3Root.SetActive(true);
+                controllerGuideRightNeo3Root.SetActive(true);
 #else
 
                 if (_controllerType == (int)PXR_Input.ControllerDevice.Neo3)

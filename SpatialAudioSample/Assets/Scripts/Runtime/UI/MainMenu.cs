@@ -74,7 +74,6 @@ namespace PicoSpatialAudioSample.Runtime.UI
             if (Instance == null)
             {
                 Instance = this;
-                DontDestroyOnLoad(gameObject);
             }
             else
             {
