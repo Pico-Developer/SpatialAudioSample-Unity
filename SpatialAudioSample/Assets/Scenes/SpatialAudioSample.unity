@@ -6831,7 +6831,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Spatial Audio Setting
+  m_text: Audio Source Settings
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 06a762244d09a094cbaebff26dbfd1bb, type: 2}
   m_sharedMaterial: {fileID: 4022615625497012709, guid: 06a762244d09a094cbaebff26dbfd1bb,
@@ -38743,7 +38743,7 @@ GameObject:
   - component: {fileID: 1338705580}
   - component: {fileID: 1338705583}
   m_Layer: 5
-  m_Name: SpatialAudioSettingBtn
+  m_Name: AudioSourceSettingsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42355,7 +42355,7 @@ GameObject:
   - component: {fileID: 1492827054}
   - component: {fileID: 1492827057}
   m_Layer: 5
-  m_Name: GlobalSettingBtn
+  m_Name: GlobalSettingsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
