@@ -3,14 +3,15 @@ The PICO Spatial Audio Sample demonstrates the capabilities of the PICO Spatial 
 
 ## Development Environment
 
-- PICO Unity Integration SDK Version: 2.5.5, with the Spatial Audio SDK 1.0.0
+- PICO Unity Integration SDK Version: 2.5.0, with the Spatial Audio SDK 1.0.0
 - XR Interaction Toolkit Package Version: 2.4.3
+- Supported PICO device models: PICO 4 and Neo 3 series
 - PICO device's system version: 5.9.2
 - Unity version: 2022.3.21f1
 
 ## Compilation and Installation
 
-You can build the Unity project and install the sample's apk file on your PICO 4 series devices to experience it.
+You can build the Unity project and install the sample's apk file on your PICO device to experience it.
 
 Connect your PICO device to your PC using a USB cable, then open the command line window and use the following ADB command to install the apk file on the device:
 
