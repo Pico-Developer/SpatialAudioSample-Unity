@@ -19,7 +19,9 @@ adb install "filepath\filename.apk"
 
 ## 使用指南
 
-有关如何使用该示例的详细信息，请参阅[此文档]()。
+有关如何使用该示例的详细信息，请参阅[此文档](https://developer-cn.picoxr.com/document/unity/spatial-audio-sample/)。
+
+有关PICO Integration SDK 提供的空间音频功能，请参阅[此文档](https://developer-cn.picoxr.com/document/unity/spatial-audio/)。
 
 ## LICENSE
-本项目根据[MIT License](./License.md)进行许可。
+本项目根据[MIT License](LICENSE)进行许可。
