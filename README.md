@@ -1,7 +1,7 @@
 # Spatial Audio Sample
-This sample features a cartoon-style house scene populated with multiple audio sources and areas designed to exhibit various spatial audio effects, including spatialization, ambisonics, directivity, and the transmission and reflection of sound across different materials. 
+This sample showcases a cartoon-style house scene enriched with multiple audio sources and areas, designed to demonstrate a variety of spatial audio effects. These include spatialization, ambisonics, directivity, and the transmission and reflection of sound across different materials.
 
-You can adjust audio parameters in the Unity Editor, or at runtime using the menu UI, to optimize high-quality 3D audio functionalities for your own creative projects.
+You can adjust audio parameters either in the Unity Editor or at runtime using the menu UI, allowing you to learn, explore, and optimize high-quality 3D audio functionalities for your own creative projects.
 
 ## Development Environment
 
