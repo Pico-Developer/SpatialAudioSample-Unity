@@ -1,11 +1,12 @@
 # Spatial Audio Sample
-This sample showcases a cartoon-style house scene enriched with multiple audio sources and areas, designed to demonstrate a variety of spatial audio effects. These include spatialization, ambisonics, directivity, and the transmission and reflection of sound across different materials.
+![Model](https://github.com/Pico-Developer/SpatialAudioSample-Unity/blob/main/SpatialAudioSampleMain.jpeg)
+This sample contains a cartoon-style house scene with multiple audio sources and areas, designed to demonstrate a variety of spatial audio effects, including spatialization, ambisonics, directivity, and sound transmission and reflection across different materials.
 
 You can adjust audio parameters either in the Unity Editor or at runtime using the menu UI, allowing you to learn, explore, and optimize high-quality 3D audio functionalities for your own creative projects.
 
 ## Documentation
 
-For details of how to use this sample, visit [this article](https://developer.picoxr.com/document/unity/spatial-audio-sample/) on the PICO Developer website.
+For details of how to use this sample, read this [user guide](https://developer.picoxr.com/document/unity/spatial-audio-sample/) on the PICO Developer website.
 
 To learn more about the spatial audio functionalities provided in the PICO Integration SDK, read [this article](https://developer.picoxr.com/document/unity/spatial-audio/).
 
